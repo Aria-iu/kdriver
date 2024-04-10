@@ -1,0 +1,1 @@
+cmd_/home/zyc/code/kdriver/extra/driver_code/blockdevice/ramdisk.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/zyc/code/kdriver/extra/driver_code/blockdevice/ramdisk.ko /home/zyc/code/kdriver/extra/driver_code/blockdevice/ramdisk.o /home/zyc/code/kdriver/extra/driver_code/blockdevice/ramdisk.mod.o
